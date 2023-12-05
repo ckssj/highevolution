@@ -96,4 +96,4 @@
           org-roam-ui-open-on-start t))
 
 
-(remove-hook 'text-mode-hook #'spell-fu-mode)
+
